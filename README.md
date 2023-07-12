@@ -26,6 +26,6 @@ Since there are many different ways in which you might want to do this, we're in
 
 If you make one of these, you will also need an additional pin to assemble it. The Sidecar Spine System will work with almost any 0.25” rod, including standard hinge pins, but you can get extras from us [here](https://www.trex-arms.com/store/sidecar-spine-replacement-hardware/).
 
-### [Wing](Wing)
+### [Wing](Spine/Wing)
 
 You know, [one of these](https://www.trex-arms.com/store/sidecar-raptor-wing-attachment/).
