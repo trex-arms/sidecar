@@ -28,4 +28,4 @@ If you make one of these, you will also need an additional pin to assemble it. T
 
 ### [Wing](Spine/Wing)
 
-You know, [one of these](https://www.trex-arms.com/store/sidecar-raptor-wing-attachment/).
+You know, [one of these](https://www.trex-arms.com/store/sidecar-raptor-wing-attachment/). But there's also an angled one that lets you fold the clips back over the holster for a smaller footprint. These wings are also the ideal starting point for any new adapters designed to connect the spine system to any mounting hardware.
